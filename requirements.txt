@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+tavily
+openai
+anthropic
+langsmith
+pytest
+rich
+langgraph
+# pip install -U langchain-openai
